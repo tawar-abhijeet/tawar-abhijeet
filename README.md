@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I’m Abhijeet Tawar
 
-<!--
-**tawar-abhijeet/tawar-abhijeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring SAP Cloud AI Specialist** | Python & Data Cleaning Freelancer
 
-Here are some ideas to get you started:
+I’m on a focused journey to transition from freelancing in **Python & Data Cleaning** to becoming a **SAP Cloud AI Expert by 2027**.  
+Currently, I’m building strong foundations with Python, Pandas, and real-world data projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 My Roadmap
+
+* **2025** → Freelancing in Python (Data Cleaning, Automation, Web Scraping)
+* **2026** → SAP BTP, HANA ML, SAP AI Core projects
+* **2027** → Targeting role in SAP Cloud AI (SAP Labs, Deloitte, etc.)
+
+---
+
+## 🛠️ Skills & Tools
+
+* **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn)
+* **Data**: Cleaning, Preprocessing, Visualization
+* **Tools**: Jupyter Notebook, GitHub, Excel
+* **Next**: SAP BTP, HANA ML, Cloud AI
+
+---
+
+## 📂 Featured Projects
+
+* 📊 [Netflix Data Cleaning](https://github.com/tawar-abhijeet/netflix-data-cleaning) – Cleaned and prepared Netflix dataset using Pandas
+* 🏨 [Hotel Bookings Cleaning](https://github.com/tawar-abhijeet/hotel-bookings-data-cleaning) – Data wrangling and cleaning hotel reservations dataset
+* 🛒 [E-Commerce Data Cleaning](https://github.com/tawar-abhijeet/E-Commerce_data_cleaning) – Processed messy sales dataset into clean structured form
+
+  ## Connect with me 👇
